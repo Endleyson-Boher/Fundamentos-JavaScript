@@ -27,7 +27,7 @@ console.log(verdadeira2);
 
 // Duas expressões resultar em FALSE (Aritiméticos/Relacionais/Lógicos)
  falso1 = 8 - 4 > 12 || false || 15 === '15';
- falso2 = !(7 != 7 || '3' !== 3);
+ falso2 = !(7 != 6 + 1 || '3' !== 3);
 
 console.log(falso1);
 console.log(falso2);
