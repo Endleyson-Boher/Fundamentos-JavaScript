@@ -1,6 +1,6 @@
 const a = 10;
 const b = 28;
-const operacao = '1' // + - * / %
+const operacao = '*' // + - * / %
 
 let resultado;
 
