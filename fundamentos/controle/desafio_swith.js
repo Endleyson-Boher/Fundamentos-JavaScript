@@ -46,4 +46,6 @@ switch(String(conceito)) {
     case 'F':
         console.log(0);
         break;
+    default: 
+        console.log('Conceito Inválido');
 }
